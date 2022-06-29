@@ -1,0 +1,15 @@
+C:\Users\Mtundi\source\repos\TutorsEquity\bin\Debug\net6.0\TutorsEquity.exe
+C:\Users\Mtundi\source\repos\TutorsEquity\bin\Debug\net6.0\TutorsEquity.deps.json
+C:\Users\Mtundi\source\repos\TutorsEquity\bin\Debug\net6.0\TutorsEquity.runtimeconfig.json
+C:\Users\Mtundi\source\repos\TutorsEquity\bin\Debug\net6.0\TutorsEquity.dll
+C:\Users\Mtundi\source\repos\TutorsEquity\bin\Debug\net6.0\TutorsEquity.pdb
+C:\Users\Mtundi\source\repos\TutorsEquity\obj\Debug\net6.0\TutorsEquity.csproj.AssemblyReference.cache
+C:\Users\Mtundi\source\repos\TutorsEquity\obj\Debug\net6.0\TutorsEquity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mtundi\source\repos\TutorsEquity\obj\Debug\net6.0\TutorsEquity.AssemblyInfoInputs.cache
+C:\Users\Mtundi\source\repos\TutorsEquity\obj\Debug\net6.0\TutorsEquity.AssemblyInfo.cs
+C:\Users\Mtundi\source\repos\TutorsEquity\obj\Debug\net6.0\TutorsEquity.csproj.CoreCompileInputs.cache
+C:\Users\Mtundi\source\repos\TutorsEquity\obj\Debug\net6.0\TutorsEquity.dll
+C:\Users\Mtundi\source\repos\TutorsEquity\obj\Debug\net6.0\refint\TutorsEquity.dll
+C:\Users\Mtundi\source\repos\TutorsEquity\obj\Debug\net6.0\TutorsEquity.pdb
+C:\Users\Mtundi\source\repos\TutorsEquity\obj\Debug\net6.0\TutorsEquity.genruntimeconfig.cache
+C:\Users\Mtundi\source\repos\TutorsEquity\obj\Debug\net6.0\ref\TutorsEquity.dll
